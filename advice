@@ -1,0 +1,9 @@
+so React has its own server and handles the UI
+ex: the login page view where you type in
+the username and password
+
+Flasks takes in that data/information, checks
+if its correct and sends it back to React
+
+Flask hold predefined data
+ex: { "users": [ ... ] }
