@@ -7,3 +7,12 @@ if its correct and sends it back to React
 
 Flask hold predefined data
 ex: { "users": [ ... ] }
+
+React: frontend : ui/visible components: webpage
+Flask: backend : holds predefined data/checks validation: database
+Flask-SQLAlchemy: backend extension : simplifies database interaction/ORM functionality: database management
+ORM (Object-Relational Mapping)
+
+Flask-SQLAlchemy can retrieve, store, update, and delete data,
+as well as create and manage database tables using Python objects and
+allows you to interact with a database using Python objects instead of writing SQL queries.
