@@ -16,3 +16,6 @@ ORM (Object-Relational Mapping)
 Flask-SQLAlchemy can retrieve, store, update, and delete data,
 as well as create and manage database tables using Python objects and
 allows you to interact with a database using Python objects instead of writing SQL queries.
+
+Flask-Cors : ensures that there is a secure communication between your flask applications and
+other domains
