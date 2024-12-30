@@ -11,5 +11,5 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = sqlalchemy(app)
 
-# uninstall cors
+# uninstall immediately cors
 # keep Flask-Cors
