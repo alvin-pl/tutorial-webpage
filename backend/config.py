@@ -14,5 +14,5 @@ db = sqlalchemy(app)
 #todo
 # uninstall immediately cors
 # keep Flask-Cors
-# more code review
+# reviewed flask and cors
 
